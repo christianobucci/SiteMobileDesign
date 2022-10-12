@@ -1,8 +1,8 @@
 #########################################################################
 
-Projeto: Site Mobile sobre Design e Tecnologia
+Protótipo navegável de um site Mobile sobre Design e Tecnologia
 
-Por Christiano de Campos Bucci
+Autor: Christiano de Campos Bucci
 
 Projeto baseado no curso Figma: Design visual de um site mobile da Alura©
 
